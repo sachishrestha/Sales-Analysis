@@ -1,6 +1,6 @@
 # Sales-Analysis
 This repository consists of Electronic Device Sales Store data analysis. 
-#### Pakages used were:
+#### Packages used were:
       . pandas
       . os
       . matplotlib
